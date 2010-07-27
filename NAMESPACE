@@ -1,0 +1,19 @@
+import(biclust)
+
+export(	s4vd,
+		ssvd,
+		BCheatmap,
+		stabpath,
+		jaccardmat,
+		BCs4vd,
+		BCssvd
+	)
+
+exportClasses(
+		BCs4vd,
+		BCssvd
+		)
+
+
+
+
